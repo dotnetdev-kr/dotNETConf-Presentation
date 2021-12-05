@@ -4,8 +4,12 @@
 
 컨퍼런스 일정 및 자세한 내용은 아래 페이지를 확인해주세요.
 
-https://rkttu.notion.site/NET-Conf-2022-x-Seoul-56931dd110424278a9f7cc7188214be3
+https://dotnetconf.kr/
 
 ---
 
-[dotnetconf2022-deck-template.pptx](./dotnetconf2022-deck-template.pptx) 파일은 2022년 닷넷콘 행사에서 Speaker분께서 사용할 PPT 템플릿입니다.
+.NET Conf 2022 x Seoul 발표자 템플릿
+
+- [한국어 템플릿](dotnetconf2022-deck-template-korean.pptx)
+- [English Template](dotnetconf2022-deck-template-english.pptx)
+- [글꼴, Fonts](dotnetconf2022-deck-fonts.zip)
