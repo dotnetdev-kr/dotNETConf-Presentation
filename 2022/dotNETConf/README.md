@@ -7,7 +7,7 @@
 
 # ORM의 특성을 비교해보자. - 김정우
 
-* **발표자료** : [PDF](11_NetConf2022_김정우_ORM의 특성을 비교해보자.pdf)
+* **발표자료** : [PDF](11_NetConf2022_김정우_ORM의_특성을_비교해보자.pdf)
 * **발표영상** : Not Set
 
 ---
@@ -56,7 +56,7 @@
 
 # 미니멀하게 만드는 API 서버 : .NET 6 Minimal API - 이종인
 
-* **발표자료** : [PDF](18_Minimal API.pdf)
+* **발표자료** : [PDF](18_Minimal_API.pdf)
 * **발표영상** : Not Set
 
 ---
