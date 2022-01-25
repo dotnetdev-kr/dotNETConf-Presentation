@@ -1,3 +1,5 @@
+![Main](dotNETConf2022.png)
+
 # .NET Conf 2022 x Seoul
 
 `dotNETConf` 폴더에서는 2022년 1월 28일에 진행한 행사를 기록하고 있습니다.
