@@ -1,12 +1,13 @@
-![Main](dotNETConf2022.png)
+![Main](../dotNET_Dev.jpg)
 
-# .NET Conf 2022 x Seoul
-
-`dotNETConf` 폴더에서는 2022년 1월 28일에 진행한 행사를 기록하고 있습니다.
+# 행사안내
 
 컨퍼런스 일정 및 자세한 내용은 아래 페이지를 확인해주세요.
 
 https://dotnetconf.kr/
+
+* [.Net Conf 2022 x Seoul](dotNETConf)
+* [.Net Conf Mini 22.05](dotNETConf-Mini-22.05)
 
 ---
 
