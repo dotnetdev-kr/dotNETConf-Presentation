@@ -92,21 +92,21 @@ https://dotnetconf.kr/
 # 11. 당신이 알아야 할 .NET6 와 프로페셔널 데스크톱 애플리케이션 UI/UX의 모든 것 - Greg Lutz
 
 * **발표자료** : [PDF](20_[GrapeCity].NET6_Webinar_by.GregLutz.pdf)
-* **발표영상** : Not Set
+* **발표영상** : [![닷넷콘 2022](../../dotNET_Dev.jpg)](https://youtu.be/yJJ78G_OP80)
 
 ---
 
 # 12. 인터넷 뱅킹에 자유를! 식탁보 프로젝트 이야기 - 남정현
 
 * **발표자료** : [PDF](21_발표1-식탁보.pdf)
-* **발표영상** : Not Set
+* **발표영상** : [![닷넷콘 2022](../../dotNET_Dev.jpg)](https://youtu.be/zlCWvPE22e4)
 
 ---
 
 # 13. .NET MAUI 소개 - 민성현
 
 * **발표자료** : [PDF](22_netconf2021seoul_발표자료_민성현.pdf)
-* **발표영상** : Not Set
+* **발표영상** : [![닷넷콘 2022](../../dotNET_Dev.jpg)](https://youtu.be/enzj7XMI1o4)
 
 ---
 
