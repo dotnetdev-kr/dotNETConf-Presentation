@@ -8,6 +8,7 @@ https://dotnetconf.kr/
 
 * [.Net Conf 2022 x Seoul](dotNETConf)
 * [.Net Conf Mini 22.05](dotNETConf-Mini-22.05)
+* [.Net Conf Mini 22.09](dotNETConf-Mini-22.09)
 
 ---
 
