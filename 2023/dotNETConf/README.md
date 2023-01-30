@@ -151,3 +151,4 @@ https://dotnetconf.kr/2023
 # 18. Stl.Fusion 소개 - 실시간 앱 서비스 만들기 - 정세일님
 
 * **사전 준비**: [PDF](HOL-18-Requirements-Stl.Fusion 소개 - 실시간 앱 서비스 만들기.pdf)
+* **발표 자료**: [PPTX](HOL-18-Stl.Fusion 소개-실시간 앱 서비스 만들기.pptx)
