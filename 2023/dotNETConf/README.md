@@ -28,7 +28,7 @@ https://dotnetconf.kr/2023
 
 # 3. ASP.NET Core 애플리케이션 모니터링 - 박정훈님
 
-* **발표 자료**: (공개 전)
+* **발표 자료**: [PPTX](Breakout-03-aspnetCoreMonitoring.pptx)
 * **발표 영상 (공개 전)**:
 [![닷넷콘 2023](../../dotNET_Dev.jpg)](https://www.youtube.com/c/닷넷데브)
 
