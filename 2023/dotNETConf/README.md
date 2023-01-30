@@ -108,7 +108,7 @@ https://dotnetconf.kr/2023
 
 # 13. MVVM Toolkit을 사용하려는 개발자를 위한 안내 - 박문찬님
 
-* **발표 자료**: (공개 전)
+* **발표 자료**: [PPTX](Breakout-13-dotnetconf2023-deck-박문찬.pptx)
 * **발표 영상 (공개 전)**:
 [![닷넷콘 2023](../../dotNET_Dev.jpg)](https://www.youtube.com/c/닷넷데브)
 
