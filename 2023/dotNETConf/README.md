@@ -12,7 +12,7 @@ https://dotnetconf.kr/2023
 
 # 1. 키노트 - 이건복님
 
-* **발표 자료**: [PPTX](Breakout-01-dotnet-conf-_Seoul.pptx)
+* **발표 자료**: [PDF](Breakout-01-dotnet-conf-_Seoul.pdf)
 * **발표 영상 (공개 전)**:
 [![닷넷콘 2023](../../dotNET_Dev.jpg)](https://www.youtube.com/c/닷넷데브)
 
@@ -20,7 +20,7 @@ https://dotnetconf.kr/2023
 
 # 2. “고성능" 튜닝으로 Blazor 애플리케이션 개발을 시작해 봅시다! - Motoki Nakae님
 
-* **발표 자료**: (공개 전)
+* **발표 자료**: [Web, 데스크톱 브라우저 필요](https://igjp-sample.github.io/DotNETConf2023Seoul/)
 * **발표 영상 (공개 전)**:
 [![닷넷콘 2023](../../dotNET_Dev.jpg)](https://www.youtube.com/c/닷넷데브)
 
@@ -76,7 +76,7 @@ https://dotnetconf.kr/2023
 
 # 9. .NET 6와 Azure 액티브 디렉터리로 웹 애플리케이션 사용자 관리하기 - Mats Lundell-Nygjelten님
 
-* **발표 자료**: (공개 전)
+* **발표 자료**: [PDF](Breakout-09-AD B2X - Identity and Access Management for Customers and Partners.pdf)
 * **발표 영상 (공개 전)**:
 [![닷넷콘 2023](../../dotNET_Dev.jpg)](https://www.youtube.com/c/닷넷데브)
 
@@ -123,6 +123,8 @@ https://dotnetconf.kr/2023
 # 15. Spread.NET과 함께하는 쾌-적 Excel 개발 - 이상준님
 
 * **사전 준비**: [PDF](HOL-15-Requirements-NET6 Nuget패키지를 통해 Spread.NET 설치방법.pdf)
+* **발표 자료**: [PPTX](HOL-15-dotnetconf2023.pptx)
+* **실습 콘텐츠**: [GitHub](https://github.com/christian289/dotnetconf2301)
 
 ---
 
