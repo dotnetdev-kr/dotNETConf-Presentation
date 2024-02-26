@@ -24,7 +24,7 @@
 
 ## 트랙 3
 
-- Blazor도 LOW CODE처럼!
+- [Blazor도 LOW CODE처럼!](https://github.com/dotnetdev-kr/dotNETConf-Presentation/tree/main/2024/dotNetConf/blazorlowcode.pdf)
 - [클린아키텍쳐로 이사가기](https://github.com/dotnetdev-kr/dotNETConf-Presentation/tree/main/2024/dotNetConf/clean_architecture.pptx) / [예제소스](https://github.com/BOBx5/2024_.NET_Conf_CleanArchitecture)
 - .NET 8을 중심으로 선택한 썸아더플레이스의 서비스 기술 전략
 - iOS 개발자가 해본 첫 .NET 앱 개발
