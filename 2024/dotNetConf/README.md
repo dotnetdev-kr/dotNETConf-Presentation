@@ -11,7 +11,7 @@
 - [쉽고 효율적인 개발을 위한 NoSQL 활용법, 카우치베이스](https://github.com/dotnetdev-kr/dotNETConf-Presentation/files/14399386/couchbase.pdf)
 - Native AOT와 Chiselled Ubuntu로 쉽고 빠르고 가볍게 배포하자.
 - 데이터 마술사: LINQ의 친구 Reactive Extensions!
-- Semantic Kernel로 만드는 LLM (OpenAI) 어플리케이션
+- [Semantic Kernel로 만드는 LLM 어플리케이션](https://github.com/dotnetdev-kr/dotNETConf-Presentation/raw/main/2024/dotNetConf/semantic_kernel.pptx)
 - [식탁보 프로젝트 Deep Dive](https://1drv.ms/p/s!Aj231qrFhIQxquAfJpOsOOuec02HQw?e=OiFZpA)
 
 ## 트랙 2
