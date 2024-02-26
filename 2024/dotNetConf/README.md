@@ -18,7 +18,7 @@
 
 - AWS에서 서버리스 .NET 앱을 개발 및 활용하기
 - [식탁보 (TableCloth) 프로젝트 현황과 향후 로드맵](https://1drv.ms/p/s!Aj231qrFhIQxquAdfH4vkTO_ki8FVQ?e=Fr24gQ)
-- .NET Aspire - Cloud-Native 애플리케이션 개발의 동반자
+- [.NET Aspire - Cloud-Native 애플리케이션 개발의 동반자](https://github.com/dotnetdev-kr/dotNETConf-Presentation/tree/main/2024/dotNetConf/DotNetAspire.pdf)
 - [Entity Framework Core 효율적인 쿼리 사용](https://github.com/dotnetdev-kr/dotNETConf-Presentation/tree/main/2024/dotNetConf/efcore.pdf)
 - [Blazor with MVVM](https://github.com/dotnetdev-kr/dotNETConf-Presentation/tree/main/2024/dotNetConf/blazormvvm.pptx) / [예제소스](https://github.com/atawLee/dotnetdevSeoul2024.git)
 
