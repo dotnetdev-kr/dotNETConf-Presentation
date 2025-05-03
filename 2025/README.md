@@ -2,6 +2,8 @@
 
 2025년 1월 9일 목요일에 열린 .NET Conf 2025 x Seoul의 발표 자료를 이곳에서 찾아보실 수 있습니다. 링크가 걸려있지 않은 항목은 준비 중이거나 발표자 사정으로 공개가 어려운 세션입니다.
 
+다시 보기 영상: [https://www.youtube.com/playlist?list=PLFVJi7gR5oaOQeXVFh9DK6pOzXRE_Wqe1](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOQeXVFh9DK6pOzXRE_Wqe1)
+
 ## 키노트
 
 - [닷넷 개발자들이 알아 두어야 할 AWS클라우드에 대한 모든 것 - 윤석찬](https://github.com/dotnetdev-kr/dotNETConf-Presentation/blob/main/2025/2025-channy.pdf)
